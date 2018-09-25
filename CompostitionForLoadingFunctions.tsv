@@ -1,0 +1,32 @@
+Rank	TaxonomyId	TaxonomyName	Update	Percentual	Lineage	Links:
+superkingdom	2157	Archaea			Archaea	
+superkingdom	2	Bacteria			Bacteria	
+phylum	28890	Euryarchaeota			Archaea	
+phylum	651137	Thaumarchaeota			Archaea; TACK group	
+phylum	1239	Firmicutes			Bacteria	
+phylum	976	Bacteroidetes			Bacteria	
+phylum	201174	Actinobacteria			Bacteria	https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=201174&lvl=3&lin=f&keep=1&srchmode=1&unlock
+phylum	1224	Proteobacteria			Bacteria	https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=1224&lvl=3&lin=f&keep=1&srchmode=1&unlock
+class	183925	Methanobacteria			Archaea; Euryarchaeota; Methanomada group	https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=183925&lvl=3&lin=f&keep=1&srchmode=1&unlock
+class	91061	Bacilli			Bacteria; Terrabacteria group; Firmicutes	https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=91061&lvl=3&lin=f&keep=1&srchmode=1&unlock
+class	200643	Bacteroidia			Bacteria; FCB group; Bacteroidetes/Chlorobi group; Bacteroidetes	https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=200643&lvl=3&lin=f&keep=1&srchmode=1&unlock
+class	1807140	Acidithiobacillia			Bacteria; Proteobacteria	https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=1807140&lvl=3&lin=f&keep=1&srchmode=1&unlock
+order	2158	Methanobacteriales			Archaea; Euryarchaeota; Methanomada group; Methanobacteria	https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=2158&lvl=3&lin=f&keep=1&srchmode=1&unlock
+order	205948	Cenarchaeales			Archaea; TACK group; Thaumarchaeota	
+order	186826	Lactobacillales			Bacteria; Terrabacteria group; Firmicutes; Bacilli	https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=186826&lvl=3&lin=f&keep=1&srchmode=1&unlock
+order	171549	Bacteroidales			Bacteria; FCB group; Bacteroidetes/Chlorobi group; Bacteroidetes; Bacteroidia	https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=171549&lvl=3&lin=f&keep=1&srchmode=1&unlock
+order	1970189	Marinilabiliales			Bacteria; FCB group; Bacteroidetes/Chlorobi group; Bacteroidetes; Bacteroidia	https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=1970189&lvl=1&lin=f&keep=1&srchmode=1&unlock
+family	2159	Methanobacteriaceae			Archaea; Euryarchaeota; Methanomada group; Methanobacteria; Methanobacteriales	https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=2159&lvl=3&lin=f&keep=1&srchmode=1&unlock
+family	205957	Cenarchaeaceae			Archaea; TACK group; Thaumarchaeota; Cenarchaeales	https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=205957&lvl=3&lin=f&keep=1&srchmode=1&unlock
+family	81852	Enterococcaceae			Bacteria; Terrabacteria group; Firmicutes; Bacilli; Lactobacillales	https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=81852&lvl=3&lin=f&keep=1&srchmode=1&unlock
+family	815	Bacteroidaceae			Bacteria; FCB group; Bacteroidetes/Chlorobi group; Bacteroidetes; Bacteroidia; Bacteroidales	https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=815&lvl=3&lin=f&keep=1&srchmode=1&unlock
+family	171552	Prevotellaceae			Bacteria; FCB group; Bacteroidetes/Chlorobi group; Bacteroidetes; Bacteroidia; Bacteroidales	https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=171552&lvl=1&lin=f&keep=1&srchmode=1&unlock
+genus	2172	Methanobrevibacter			Archaea; Euryarchaeota; Methanomada group; Methanobacteria; Methanobacteriales; Methanobacteriaceae	https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=2172&lvl=3&lin=f&keep=1&srchmode=1&unlock
+genus	46769	Cenarchaeum			Archaea; TACK group; Thaumarchaeota; Cenarchaeales; Cenarchaeaceae	https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=46769&lvl=3&lin=f&keep=1&srchmode=1&unlock
+genus	1350	Enterococcus			Bacteria; Terrabacteria group; Firmicutes; Bacilli; Lactobacillales; Enterococcaceae	https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=1350&lvl=3&lin=f&keep=1&srchmode=1&unlock
+genus	816	Bacteroides			Bacteria; FCB group; Bacteroidetes/Chlorobi group; Bacteroidetes; Bacteroidia; Bacteroidales; Bacteroidaceae	https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=816&lvl=3&lin=f&keep=1&srchmode=1&unlock
+genus	558418	Acetofilamentum			Bacteria; FCB group; Bacteroidetes/Chlorobi group; Bacteroidetes; Bacteroidia; Bacteroidales; Bacteroidaceae	https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=558418&lvl=3&lin=f&keep=1&srchmode=1&unlock
+species	1351	Enterococcus faecalis			Bacteria; Terrabacteria group; Firmicutes; Bacilli; Lactobacillales; Enterococcaceae; Enterococcus	https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=1351&lvl=3&lin=f&keep=1&srchmode=1&unlock
+species	1352	Enterococcus faecium			Bacteria; Terrabacteria group; Firmicutes; Bacilli; Lactobacillales; Enterococcaceae; Enterococcus	https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=1352&lvl=3&lin=f&keep=1&srchmode=1&unlock
+species	817	Bacteroides fragilis			Bacteria; FCB group; Bacteroidetes/Chlorobi group; Bacteroidetes; Bacteroidia; Bacteroidales; Bacteroidaceae; Bacteroides	https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=817&lvl=3&lin=f&keep=1&srchmode=1&unlock
+species	2173	Methanobrevibacter smithii			Archaea; Euryarchaeota; Methanomada group; Methanobacteria; Methanobacteriales; Methanobacteriaceae; Methanobrevibacter	https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=2173&lvl=3&lin=f&keep=1&srchmode=1&unlock

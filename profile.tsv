@@ -1,0 +1,40 @@
+taxonomyId	count	classificationsPercentual	taxonomyName	rank	CumulativePercentual
+1	100	10	NA	NA	NA
+2	34	3.4	Bacteria	superkingdom	58.2
+815	20	2	Bacteroidaceae	family	11.3
+816	30	3	Bacteroides	genus	6.2
+817	32	3.2	Bacteroides fragilis	species	3.2
+976	38	3.8	Bacteroidetes	phylum	26.5
+1224	25	2.5	Proteobacteria	phylum	6.2
+1239	34	3.4	Firmicutes	phylum	19.6
+1350	24	2.4	Enterococcus	genus	8.8
+1351	34	3.4	Enterococcus faecalis	species	3.4
+1352	30	3	Enterococcus faecium	species	3
+2157	31	3.1	Archaea	superkingdom	31.8
+2158	33	3.3	Methanobacteriales	order	10.8
+2159	25	2.5	Methanobacteriaceae	family	7.5
+2172	24	2.4	Methanobrevibacter	genus	5
+2173	26	2.6	Methanobrevibacter smithii	species	2.6
+28890	34	3.4	Euryarchaeota	phylum	17.2
+46769	32	3.2	Cenarchaeum	genus	3.2
+81852	28	2.8	Enterococcaceae	family	11.6
+91061	23	2.3	Bacilli	class	16.2
+171549	32	3.2	Bacteroidales	order	17.7
+171552	32	3.2	Prevotellaceae	family	3.2
+183925	30	3	Methanobacteria	class	13.8
+186826	23	2.3	Lactobacillales	order	13.9
+200643	31	3.1	Bacteroidia	class	22.7
+201174	25	2.5	Actinobacteria	phylum	2.5
+205948	29	2.9	Cenarchaeales	order	8.2
+205957	21	2.1	Cenarchaeaceae	family	5.3
+558418	31	3.1	Acetofilamentum	genus	3.1
+651137	33	3.3	Thaumarchaeota	phylum	11.5
+1807140	37	3.7	Acidithiobacillia	class	3.7
+1970189	19	1.9	Marinilabiliales	order	1.9
+NA	NA	NA	NA	family	61.1
+NA	NA	NA	NA	class	43.6
+NA	NA	NA	NA	superkingdom	10
+NA	NA	NA	NA	order	47.5
+NA	NA	NA	NA	phylum	16.5
+NA	NA	NA	NA	genus	73.7
+NA	NA	NA	NA	species	87.8
